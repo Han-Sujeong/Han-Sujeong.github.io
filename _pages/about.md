@@ -31,4 +31,4 @@ I received my undergraduate degree in Nursing and later completed both my master
 My research interests include `chronic disease` and `aging`, with particular attention to how `psychological factors` such as self efficacy and individual attitudes toward life influence health outcomes. I also enjoy exploring new research questions and understanding various aspects of health and human life through data-driven approaches. In addition, I have a interest in collaborating with researchers from diverse fields.
 Currently, I am teaching at a university, and I find great fulfillment in sharing knowledge and communicating with students.
 
-If you are interested in research collaboration or academic discussion, please feel free to contact me anytime.
+If you are interested in research collaboration or academic discussion, please feel free to contact me anytime via [email](mailto:drsjhan@snu.ac.kr).
