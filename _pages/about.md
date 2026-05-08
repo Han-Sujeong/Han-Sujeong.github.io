@@ -24,11 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **Visiting Professor** at [Seoul National University] (https://en.snu.ac.kr) and a **Lecturer** at [Eulji University] (https://www.eulji.ac.kr/renewal-eng/index.html?menuno=3822).
+I am a **Visiting Professor** at [Seoul National University](https://en.snu.ac.kr) and a **Lecturer** at [Eulji University](https://www.eulji.ac.kr/renewal-eng/index.html?menuno=3822).
 
 I received my undergraduate degree in Nursing and later completed both my master’s and Ph.D. in Public Health with a specialization in Epidemiology. Based on this academic background, I am interested in bridging clinical understanding with population-based research.
 
-My primary research interests include **chronic diseases** and **aging**, with particular attention to how **psychological factors** such as self efficacy and individual attitudes toward life influence health outcomes. I also enjoy exploring new research questions and understanding various aspects of health and human life through data-driven approaches. In addition, I have a strong interest in collaborating with researchers from diverse fields.
+My primary research interests include `chronic disease` and `aging`, with particular attention to how `psychological factors` such as self efficacy and individual attitudes toward life influence health outcomes. I also enjoy exploring new research questions and understanding various aspects of health and human life through data-driven approaches. In addition, I have a interest in collaborating with researchers from diverse fields.
 Currently, I am teaching at a university, and I find great fulfillment in sharing knowledge and communicating with students.
 
 If you are interested in research collaboration or academic discussion, please feel free to contact me anytime.
